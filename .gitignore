@@ -1,0 +1,21 @@
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+/frontend/.DS_Store
+/frontend/.env
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/node_modules/
+
+/backend/backend/__pycache__/*
+__pycache__/
+ employee/__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+
+/casestudyenv/*

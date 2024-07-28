@@ -1,0 +1,5 @@
+django
+pip install django-cors-headers
+pip install djangorestframework
+pip install jwt
+pip install djoser
