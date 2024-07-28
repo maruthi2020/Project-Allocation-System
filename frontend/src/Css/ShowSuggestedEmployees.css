@@ -1,0 +1,48 @@
+.suggested-employees-container {
+    margin-top: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    font-weight: bold;
+    background-color: #f0f0f0; /* Table header background color */
+  }
+  
+  .table-no-border th,
+  .table-no-border td {
+    border: none;
+  }
+  
+  .accordion-button {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    width: 80%;
+    color: #007bff; /* Link color */
+  }
+  
+  .accordion-button:hover {
+    text-decoration: underline;
+  }
+
+  .skills-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    margin-bottom: 5px;
+  }
